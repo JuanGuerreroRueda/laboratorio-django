@@ -1,8 +1,8 @@
-\# Laboratorio 1 - Django
+\Laboratorio 1 - Django
 
 
 
-\## Stack elegido
+\Stack elegido
 
 
 
@@ -10,7 +10,7 @@ Django con Python.
 
 
 
-\## Motivo de la elección
+\Motivo de la elección
 
 
 
@@ -20,7 +20,7 @@ organizada y segura utilizando Python.
 
 
 
-\## Criterios de selección
+\Criterios de selección
 
 
 
@@ -34,7 +34,7 @@ organizada y segura utilizando Python.
 
 
 
-\## Ejecución del proyecto
+\Ejecución del proyecto
 
 
 
